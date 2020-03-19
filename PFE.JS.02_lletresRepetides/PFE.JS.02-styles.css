@@ -1,0 +1,40 @@
+
+.header {
+  font-family: 'Roboto','Open Sans', sans-serif;
+      margin-top: 50px;
+      font-size: 2rem; 
+    }
+body {
+        font-family: 'Sarabun', sans-serif;
+        font-family: 'Domine', serif;
+        font-family: 'Noto Sans KR', sans-serif;
+        font-size: 1rem;
+        
+      }
+.textResult {
+        margin-top: 20px;
+    }  
+
+H2 { 
+      font-size: medium;
+    }
+
+.btn{
+      font-size: small;
+}
+
+#txtID{
+      margin-top: 2rem;
+      margin-bottom: 2rem;
+    }
+::placeholder{
+  text-align: center;
+}
+input{
+  width: 50%;
+  border: 1px solid black;
+    border-radius: 5px; 
+}
+footer{
+  font-size: smaller;
+}
